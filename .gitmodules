@@ -1,3 +1,6 @@
 [submodule "dip"]
 	path = dip
 	url = https://github.com/seraphwu/dip.git
+[submodule "webdesign"]
+	path = webdesign
+	url = https://github.com/seraphwu/webdesign.git
